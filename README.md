@@ -1,6 +1,7 @@
+[ University Project | October 2019 ]
 # Anagrams
 
-Application to find anagrams in the french dictionary. [ University Project | L2S3 ]
+Application to find anagrams in a dictionary. 
 
 ## How to use
 - Download this archive
