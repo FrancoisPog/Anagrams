@@ -2,10 +2,5 @@
 
 *.a
 
-.vscode
-.vscode/*
-
-*.exe
-
 *.directory
 
